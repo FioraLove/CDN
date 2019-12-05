@@ -99,7 +99,9 @@ html,body{
     position: absolute;
     overflow: hidden;
     border-radius:0;
-    background-image:url('../img/afe.jpg');
+
+    background-image:url('https://cdn.jsdelivr.net/gh/FioraLove/CDN@v1.2.8/img/afe.jpg');
+
     box-shadow:0 0px 6px rgba(255,255,255,0.6);
     cursor:pointer;
     overflow: hidden;
